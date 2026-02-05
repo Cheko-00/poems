@@ -6,7 +6,7 @@ La idea es que puedas **clonar este repo**, seguir la guía y usarla como refere
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 * Aprender Docker desde cero
 * Levantar una landing page sin XAMPP
@@ -15,7 +15,7 @@ La idea es que puedas **clonar este repo**, seguir la guía y usarla como refere
 
 ---
 
-## 🧠 Conceptos básicos
+## Conceptos básicos
 
 ### ¿Qué es Docker?
 
@@ -99,7 +99,7 @@ http://TU_IP:8080
 
 ---
 
-## 🏗️ Opción 2: Docker para PRODUCCIÓN
+## Opción 2: Docker para PRODUCCIÓN
 
 Este modo crea una imagen final con los archivos incluidos.
 
@@ -149,7 +149,7 @@ http://TU_IP:8080
 
 ---
 
-## 📌 Comandos básicos de Docker
+## Comandos básicos de Docker
 
 | Acción               | Comando                      |
 | -------------------- | ---------------------------- |
@@ -198,7 +198,7 @@ Cerrar sesión y volver a entrar.
 
 ---
 
-## 🧠 Idea clave
+## Idea clave
 
 > Docker no es complicado.
 > Solo automatiza cosas que ya hacías a mano.
