@@ -1,0 +1,1 @@
+La valentía es enfrentarse al miendo de mostrarse frágil.
