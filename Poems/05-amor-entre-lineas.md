@@ -2,7 +2,7 @@
 Cúra{me} tiempo, fue mi refugio,
 ese lugar para perderme, pero
 a la vez, para encontrarme y volver a conocerme
-fue amor a primera vista, sus versos me 
+fue amor a primera vista, sus besos me 
 erizaban la piel.
 
 Más que una compañía, fue mi aliada
