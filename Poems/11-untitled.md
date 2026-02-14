@@ -1,5 +1,5 @@
 Me he condenado a esta vida,
-a una vida que jamás quise continuar sin entrar mi amor.
+a una vida que jamás quise continuar sin entregar mi amor.
 Si tan solo vieran cómo la inocencia abandonó mis ojos,
 mi cuerpo, mis labios, mi rostro…
 Es desgarrador admitir que me entregué a otras mujeres
